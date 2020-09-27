@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="644" it="0" lt="632" ct="555" ts="1601169335286" s="true" lb="商家-账号登录" rc="200" rm="OK" tn="xxx商家管理后台 1-1" dt="text" by="30435" sby="125" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.cnblogs.com/gsxl/</java.net.URL>
+</httpSample>
+<httpSample t="233" it="0" lt="224" ct="0" ts="1601169335957" s="true" lb="商家-添加商品" rc="200" rm="OK" tn="xxx商家管理后台 1-1" dt="text" by="30443" sby="125" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.cnblogs.com/gsxl/</java.net.URL>
+</httpSample>
+<httpSample t="418" it="0" lt="412" ct="0" ts="1601169336192" s="true" lb="商家-查询商品" rc="200" rm="OK" tn="xxx商家管理后台 1-1" dt="text" by="30436" sby="125" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.cnblogs.com/gsxl/</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="51" ct="0" ts="1601169336613" s="true" lb="商家-修改商品" rc="200" rm="OK" tn="xxx商家管理后台 1-1" dt="text" by="30442" sby="125" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.cnblogs.com/gsxl/</java.net.URL>
+</httpSample>
+<sample t="1349" it="100" lt="1319" ct="555" ts="1601169335219" s="true" lb="添加商品" rc="200" rm="Number of samples in transaction : 4, number of failing samples : 0" tn="xxx商家管理后台 1-1" dt="" by="121756" sby="500" ng="1" na="1"/>
+<httpSample t="20" it="0" lt="18" ct="0" ts="1601169336668" s="true" lb="商家-查询待审核商品" rc="200" rm="OK" tn="xxx商家管理后台 1-1" dt="text" by="30435" sby="125" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.cnblogs.com/gsxl/</java.net.URL>
+</httpSample>
+<httpSample t="34" it="0" lt="33" ct="0" ts="1601169336689" s="true" lb="商家-确定审核商品" rc="200" rm="OK" tn="xxx商家管理后台 1-1" dt="text" by="30407" sby="125" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.cnblogs.com/gsxl/</java.net.URL>
+</httpSample>
+<httpSample t="30" it="0" lt="26" ct="0" ts="1601169336724" s="true" lb="商家-上架商品" rc="200" rm="OK" tn="xxx商家管理后台 1-1" dt="text" by="30422" sby="125" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.cnblogs.com/gsxl/</java.net.URL>
+</httpSample>
+<sample t="84" it="4" lt="77" ct="0" ts="1601169336668" s="true" lb="商品审核上架" rc="200" rm="Number of samples in transaction : 3, number of failing samples : 0" tn="xxx商家管理后台 1-1" dt="" by="91264" sby="375" ng="1" na="1"/>
+<httpSample t="27" it="0" lt="21" ct="0" ts="1601169336756" s="true" lb="商家-下架商品" rc="200" rm="OK" tn="xxx商家管理后台 1-1" dt="text" by="30457" sby="125" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.cnblogs.com/gsxl/</java.net.URL>
+</httpSample>
+<httpSample t="31" it="0" lt="26" ct="0" ts="1601169336785" s="true" lb="商家-删除商品" rc="200" rm="OK" tn="xxx商家管理后台 1-1" dt="text" by="30430" sby="125" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.cnblogs.com/gsxl/</java.net.URL>
+</httpSample>
+<sample t="58" it="3" lt="47" ct="0" ts="1601169336756" s="true" lb="后置-数据清理" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="xxx商家管理后台 1-1" dt="" by="60887" sby="250" ng="1" na="1"/>
+
+<httpSample t="428" it="0" lt="423" ct="382" ts="1601169338401" s="true" lb="用户-账号登录" rc="200" rm="OK" tn="xxx电商系统 1-1" dt="text" by="30406" sby="125" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.cnblogs.com/gsxl/</java.net.URL>
+</httpSample>
+<httpSample t="23" it="0" lt="22" ct="0" ts="1601169338839" s="true" lb="用户-加入购物车" rc="200" rm="OK" tn="xxx电商系统 1-1" dt="text" by="30400" sby="125" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.cnblogs.com/gsxl/</java.net.URL>
+</httpSample>
+<httpSample t="34" it="0" lt="33" ct="0" ts="1601169338863" s="true" lb="用户-提交订单" rc="200" rm="OK" tn="xxx电商系统 1-1" dt="text" by="30429" sby="125" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.cnblogs.com/gsxl/</java.net.URL>
+</httpSample>
+<httpSample t="24" it="0" lt="20" ct="0" ts="1601169338897" s="true" lb="用户-支付订单" rc="200" rm="OK" tn="xxx电商系统 1-1" dt="text" by="30422" sby="125" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.cnblogs.com/gsxl/</java.net.URL>
+</httpSample>
+<sample t="509" it="75" lt="498" ct="382" ts="1601169338338" s="true" lb="用户-提交订单" rc="200" rm="Number of samples in transaction : 4, number of failing samples : 0" tn="xxx电商系统 1-1" dt="" by="121657" sby="500" ng="1" na="1"/>
+<httpSample t="29" it="0" lt="26" ct="0" ts="1601169338922" s="true" lb="商家-审核订单" rc="200" rm="OK" tn="xxx电商系统 1-1" dt="text" by="30435" sby="125" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.cnblogs.com/gsxl/</java.net.URL>
+</httpSample>
+<httpSample t="40" it="0" lt="37" ct="0" ts="1601169338952" s="true" lb="商家-发货订单" rc="200" rm="OK" tn="xxx电商系统 1-1" dt="text" by="30413" sby="125" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.cnblogs.com/gsxl/</java.net.URL>
+</httpSample>
+<sample t="69" it="1" lt="63" ct="0" ts="1601169338922" s="true" lb="商家发货" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="xxx电商系统 1-1" dt="" by="60848" sby="250" ng="1" na="1"/>
+
+</testResults>
